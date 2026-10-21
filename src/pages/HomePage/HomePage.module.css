@@ -1,0 +1,28 @@
+.container {
+  padding: 20px 0;
+}
+
+.title {
+  margin-bottom: 20px;
+  font-size: 28px;
+  color: #2d3748;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  list-style: none;
+  padding: 0;
+}
+
+.link {
+  text-decoration: none;
+  color: #3182ce;
+  font-size: 18px;
+}
+
+.link:hover {
+  text-decoration: underline;
+  color: #2b6cb0;
+}
